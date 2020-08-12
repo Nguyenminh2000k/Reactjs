@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Intelligent Wooden Shirt 1",
+      "image": "https://colorlib.com/preview/theme/timezone/assets/img/gallery/popular1.png",
+      "price": "407.00",
+      "cateId": "2",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "name": "Small Metal Table",
+      "image": "https://colorlib.com/preview/theme/timezone/assets/img/gallery/popular2.png",
+      "price": "39.00",
+      "cateId": "1",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 3,
+      "name": "Unbranded Cotton Sausages",
+      "image": "https://colorlib.com/preview/theme/timezone/assets/img/gallery/popular3.png",
+      "price": "922.00",
+      "cateId": "2",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 4,
+      "name": "Sleek Frozen Chips",
+      "image": "https://colorlib.com/preview/theme/timezone/assets/img/gallery/popular4.png",
+      "price": "697.00",
+      "cateId": "2",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 5,
+      "name": "Ergonomic Steel Shirt",
+      "image": "https://colorlib.com/preview/theme/timezone/assets/img/gallery/popular5.png",
+      "price": "498.00",
+      "cateId": "1",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 6,
+      "name": "Intelligent Concrete Bacon ",
+      "image": "https://colorlib.com/preview/theme/timezone/assets/img/gallery/popular6.png",
+      "price": "461.00",
+      "cateId": "2",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "minhnguyen",
+      "price": "230000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-de54a.appspot.com/o/image%2Fsuperstar-shoes-white-c77154-01-standard-b35b5444-16c6-4023-bc37-1772445511d6.jpg?alt=media&token=10e1931b-8a1d-46d7-9078-6bf2c25b39ab",
+      "cateId": "2",
+      "desc": "qưertyu",
+      "id": 7
+    },
+    {
+      "name": "minhnguyen",
+      "price": "230000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-de54a.appspot.com/o/image%2Fsuperstar-shoes-white-c77154-01-standard-b35b5444-16c6-4023-bc37-1772445511d6.jpg?alt=media&token=a3a41414-4946-4557-b833-bad4a8a1eb9e",
+      "cateId": "2",
+      "desc": "qưertyu",
+      "id": 8
+    },
+    {
+      "name": "Đồng hồ thông minh",
+      "price": "4900000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-de54a.appspot.com/o/image%2Fdong-ho-thong-minh-fitbit-versa-2-black-carbon-vn.jpg?alt=media&token=0150e4a2-b3d0-4ade-9ae1-6aeece918b7c",
+      "cateId": "1",
+      "desc": "Dựa trên sự thành công của chiếc smartwatch Versa ra mắt hồi năm ngoái, Fitbit vừa mới ra mắt phiên bản thứ 2 với nhiều nâng cấp và cải tiến hấp dẫn. Versa 2 Black / Carbon (VN) là một sự lựa chọn cực kỳ hợp lý nếu bạn rất thích Apple Watch, nhưng có tài chính hạn hẹp.",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name_category": "rolex",
+      "desc_category": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 2,
+      "name_category": "Thuy si",
+      "desc_category": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tại sao đồng hồ Thụy Sỹ lại có sức hút lớn đến vậy",
+      "desc_post": "Khi nhắc đến đồng hồ người ta sẽ nghĩ ngay đến đồng hồ Thụy Sỹ nổi tiếng thế giới. Các quý ông thường rỉ tai nhau rằng “đến Đức mua ô tô, tới Thụy Sỹ mua đồng hồ”. Bởi vậy, đối với các đấng mày râu được sở hữu một chiếc đồng hồ Thụy Sỹ dường như là một niềm ao ước và thước đo kinh tế, đẳng cấp của một người. Vì dù là đồng hồ có giá bạc tỷ hay bình dân thì chúng vẫn có giá cao hơn rất nhiều so với các thương hiệu đồng hồ đến từ các nước khác trên thế giới.\nKhi nhắc đến đồng hồ người ta sẽ nghĩ ngay đến đồng hồ Thụy Sỹ nổi tiếng thế giới. Các quý ông thường rỉ tai nhau rằng “đến Đức mua ô tô, tới Thụy Sỹ mua đồng hồ”. Bởi vậy, đối với các đấng mày râu được sở hữu một chiếc đồng hồ Thụy Sỹ dường như là một niềm ao ước và thước đo kinh tế, đẳng cấp của một người. Vì dù là đồng hồ có giá bạc tỷ hay bình dân thì chúng vẫn có giá cao hơn rất nhiều so với các thương hiệu đồng hồ đến từ các nước khác trên thế giới.",
+      "short_desc": "Khi nhắc đến đồng hồ người ta sẽ nghĩ ngay đến đồng hồ Thụy Sỹ nổi tiếng thế giới. Các quý ông thường rỉ tai nhau rằng “đến Đức mua ô tô, tới Thụy Sỹ mua đồng hồ”.",
+      "image_post": "https://www.dangquangwatch.vn/upload/article/468980239_dong_ho_deo_tay.jpg",
+      "date": "21:22:23, 9/8/2020"
+    },
+    {
+      "title": "Dấu ấn nổi bật của đồng hồ cơ Stuhrling Original",
+      "image_post": "https://www.dangquangwatch.vn/upload/article/1583705701_stuhrling.jpg",
+      "short_desc": "Chiếc đồng hồ cơ với các chi tiết phức tạp luôn là niềm đam mê của những ai yêu đồng hồ. Một bộ máy cơ khí thường có 5 bộ phận cơ bản: bộ phận tạo năng lượng,",
+      "desc_post": "Chiếc đồng hồ cơ với các chi tiết phức tạp luôn là niềm đam mê của những ai yêu đồng hồ. Một bộ máy cơ khí thường có 5 bộ phận cơ bản: bộ phận tạo năng lượng, các bánh răng, bộ thoát, phần điều khiển và bộ phận hiển thị thời gian. Năng lượng được nạp vào đồng hồ bằng cách vặn cót bằng tay hoặc lên dây tự động. Một chiếc đồng hồ cơ đơn giản cũng có nhiều \"máy móc\" bên trong và được cấu tạo từ những bộ phận tinh xảo.",
+      "date": "23:24:40, 9/8/2020",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "content": "this is contact",
+      "auther": "Nguyen Hong Minh",
+      "email": "minh@gmail.com"
+    },
+    {
+      "content": "qwerty",
+      "auther": "minh nguyen",
+      "email": "kieu@gmail.com",
+      "id": 2
+    }
+  ]
+}
